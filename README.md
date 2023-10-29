@@ -1,5 +1,5 @@
 
-![Logo](https://media.discordapp.net/attachments/1153120372389072916/1168255292367192204/southgate_nobg_b.png?ex=65511986&is=653ea486&hm=de701bdc01efe2e1bccc92b001cf5199e9e6ee81810fded8a5531e2e04b1b0d1&=)
+![Logo](https://media.discordapp.net/attachments/1153120372389072916/1168255292602069092/southgate_nobg_w.png?ex=65511986&is=653ea486&hm=47e7130aaf834b0a836f98f963fc7f26dd6e8feef3808c607162cad29c57e80d&=)
 
 
 Southgate Secondary School is a startup secondary school set in modern liverpool. Achieving excellence, together.
